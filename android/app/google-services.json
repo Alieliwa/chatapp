@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "692205582565",
+    "project_id": "chatt-app-61e4d",
+    "storage_bucket": "chatt-app-61e4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692205582565:android:f45eb002ae966159d4fc0c",
+        "android_client_info": {
+          "package_name": "com.eliwa.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692205582565-damhropf75el8qv0bd33go74hrhmlk6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkTOg_AAzVTEVSVH4jL7OhcMgQBfshAn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692205582565-damhropf75el8qv0bd33go74hrhmlk6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
